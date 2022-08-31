@@ -2,8 +2,5 @@
 
 4444
 
-<<<<<<< HEAD
-5555 from test
-=======
-55555 from master
->>>>>>> master
+2022-08-31 09:11:48 from master
+2022-08-31 09:11:48 from test
